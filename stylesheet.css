@@ -26,6 +26,7 @@ li{
   height :1170px;
   width: auto;
   background-image:url(unko.png);
+  background-size:cover;
 }
 main{
   margin: 0 auto;
