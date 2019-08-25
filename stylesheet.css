@@ -1,0 +1,35 @@
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p, div {
+  margin: 0;
+  padding: 0;
+}
+
+header{
+  background-color: red;
+  height:auto;
+  margin: 0 auto;
+}
+.header-icon{
+  color: yellow;
+}
+.header-center{
+  text-align: center;
+}
+.header-center a{
+}
+
+li{
+  list-style:none;
+}
+.top-wrapper{
+  height :1170px;
+  width: auto;
+  background-image:url(unko.png);
+}
+main{
+  margin: 0 auto;
+}
+.main-logo{
+  text-align: center;
+}
